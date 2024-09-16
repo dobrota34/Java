@@ -52,7 +52,10 @@ public class laba1 {
 		zz.setmanypeople(4);
 		System.out.print(zz.toString()+ "\n");
 
-		System.out.print(tours);
+		ManyTours xx = new ManyTours();
+		xx.prits();
+
+
 		
 	}
 

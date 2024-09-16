@@ -27,15 +27,19 @@ public class SalesTour {
 		
 	}
 	public void setdatecome(String datecome) {
+
 		this.datecome = datecome;
 	}
 	public void setdateout(String dateout) {
+
 		this.dateout = dateout;
 	}
 	public void setmanypeople(int manypeople) {
+
 		this.manypeople = manypeople;
 	}
 	public void setprice(double price) {
+
 		this.price = price;
 	}
 	
