@@ -7,7 +7,8 @@ public class Sanatorium extends SalesTour {
 	@Override
 	public String toString() {
 		System.out.print(super.toString());
-		return "\nМед полис - " + policy + "\nНаправление в больницу - " + referral_to_hospital + "\nДиагноз - " + diagnosis+ "\n";
+		return "\nМед полис - " + policy + "\nНаправление в больницу - " + referral_to_hospital +
+				"\nДиагноз - " + diagnosis+ "\n";
 	}
 
 }
